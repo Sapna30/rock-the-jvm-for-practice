@@ -1,2 +1,6 @@
+# IntelliJ
+.idea
 *.class
 *.log
+*.impl
+*.exclude
