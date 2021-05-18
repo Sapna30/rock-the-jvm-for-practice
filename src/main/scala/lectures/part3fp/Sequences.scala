@@ -46,7 +46,7 @@ object Sequences extends App {
 
   //Vectors
   val maxRuns = 1000
-  val maxCapacity = 1000000
+  val maxCapacity = 100000
 
   def getWriteTime(collection: Seq[Int]): Double = {
     val r = new Random
